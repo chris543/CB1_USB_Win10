@@ -1,0 +1,14 @@
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\bin\Debug\CB1_shield2_v1.exe.config
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\bin\Debug\CB1_shield2_v1.exe
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\bin\Debug\CB1_shield2_v1.pdb
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\CB1_shield2_v1.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\MainWindow.g.cs
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\App.g.cs
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\CB1_shield2_v1_MarkupCompile.cache
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\CB1_shield2_v1_MarkupCompile.lref
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\MainWindow.baml
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\CB1_shield2_v1.g.resources
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\CB1_shield2_v1.Properties.Resources.resources
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\CB1_shield2_v1.csproj.GenerateResource.Cache
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\CB1_shield2_v1.exe
+f:\documents\visual studio 2015\Projects\CB1_shield2_v1\CB1_shield2_v1\obj\Debug\CB1_shield2_v1.pdb
